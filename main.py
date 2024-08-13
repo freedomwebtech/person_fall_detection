@@ -3,7 +3,7 @@ import numpy as np
 from ultralytics import YOLO
 import pandas as pd
 import cvzone
-from vidgear.gears import CamGear
+
 
 
 model = YOLO("best.pt")  
