@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 import pandas as pd
 import cvzone
-import numpy as np
+
 
 model = YOLO("yolov10s.pt")  
  
